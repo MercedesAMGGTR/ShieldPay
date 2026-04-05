@@ -1,0 +1,1 @@
+Built a multi-merchant payment dashboard with dummy data with Cursor, and broke it. Used Arko to observe and analyse the code and provide a Hackable score. Followed the remediations given by Arko to fix vulnerabilities and lower Hackable score.
